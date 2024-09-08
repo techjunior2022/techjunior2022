@@ -50,10 +50,14 @@ Fascinated by **Technology**, I've immersed myself in the world of cybersecurity
   <img width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
 </div>
 
-<div align="left">
-  [![Pranaav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coffinsp&theme=vision-friendly-dark)](https://github.com/coffinsp/github-readme-stats)
+<div align="center">
+  
+  [![Pranaav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coffinsp&theme=vision-friendly-dark&show_icons=true)](https://github.com/coffinsp/github-readme-stats)
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=coffinsp&theme=dark&card_width=450)](https://git.io/streak-stats)
+
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coffinsp&layout=compact&theme=vision-friendly-dark)](https://github.com/coffinsp/github-readme-stats)
+
 </div>
 
 ---
