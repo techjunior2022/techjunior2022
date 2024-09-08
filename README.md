@@ -24,14 +24,14 @@ I'm **[Pranaav Bhatnagar](https://www.instagram.com/pranaav.xoxd?igsh=MXAzb2N0Nm
 <details>
   <summary>More about me</summary>
 
-- **Name**: coffin
-- **From**: Russia
+- **Name**: Pranaav Bhatnagar
+- **From**: India
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 - i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy agent.
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at **coffinxp7@proton.me**
+- Reach me out at **pranaav03@proton.me**
 
 </details>
 <br>
