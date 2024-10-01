@@ -1,6 +1,6 @@
 <!-- Cybersecurity Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" alt="Cybersecurity Banner" width="100%" height="auto"/>
+  <img src="https://your-image-url.com/banner.png" alt="Cybersecurity Banner" width="100%" height="auto"/>
 </p>
 
 <!-- Typing SVG Animation -->
@@ -11,7 +11,7 @@
 </div>
 
 <!-- Profile Introduction with Animation -->
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
+<img width="28%" align='right' src="https://your-image-url.com/profile.png" alt="Cybersecurity Image"/>
 
 <h2 align="left"> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
   
@@ -37,7 +37,7 @@
 <h2 align="center"> 🚀 Featured Project </h2>
 
 <p align="center">
-  <b>[Cybertools](https://github.com/coffinsp/cybertools)</b> <br>
+  <b><a href="https://github.com/coffinsp/cybertools">Cybertools</a></b> <br>
   <i>A Python tool for automating vulnerability detection with a focus on beginners in cybersecurity.</i> <br><br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffinsp&repo=cybertools&theme=vision-friendly-dark" alt="GitHub Repo Card" />
 </p>
@@ -72,7 +72,7 @@
   <img src="https://media.giphy.com/media/l4FGGafcOHmrlQxGg/giphy.gif" width="200px"/>
 </p>
 
-<!-- Footer Animation with Lottie or GIF -->
+<!-- Footer Animation with GIF -->
 <p align="center">
-  <img src="https://assets8.lottiefiles.com/private_files/lf30_iizb01ll.json" width="200px" />
+  <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="200px" alt="Hacker GIF"/>
 </p>
