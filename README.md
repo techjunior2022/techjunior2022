@@ -1,84 +1,78 @@
-<!-- Profile Header -->
+<!-- Cybersecurity Banner -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" alt="Cybersecurity Banner" width="100%" height="auto"/>
 </p>
 
-<!-- Typing SVG -->
+<!-- Typing SVG Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+the+Path+to+Master+Bug+Bounties;Cybersecurity+is+the+Future;Learning+Malware+Forensics+Everyday" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&center=true&vCenter=true&width=435&lines=Cybersecurity+Specialist+in+the+Making;Malware+Forensics+%7C+Bug+Hunter;Building+Tools+%26+Learning+Everyday!" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Profile Introduction -->
+<!-- Profile Introduction with Animation -->
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
-<h2 align="left">
-  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h2>
-
-I'm **[Pranaav Bhatnagar](https://www.instagram.com/pranaav.xoxd?igsh=MXAzb2N0NmI2dTBtdQ==)**, a hacker & security researcher on the path to becoming a **Cybersecurity Specialist** and **Bug Hunter**. 
-
-Fascinated by **Technology**, I've immersed myself in the world of cybersecurity, focusing on **malwares, viruses, bug hunting**, and **forensics analysis**. I aim to protect companies' assets and contribute to the cybersecurity community.
-
----
-
-### 💡 More About Me
-
-- **Name**: Pranaav Bhatnagar
-- **From**: India 🇮🇳
-- **Role**: Bug Hunter | Security Researcher | Forensics Analyst
-- **Skills**: Reverse Engineering, Malware Analysis, Forensics, Social Engineering, Spy Agent
-- **Learning**: Website Vulnerabilities, Mobile Pentesting, Web3
-- **Currently**: Writing tools for cybersecurity & open-source projects
-- **Contact**: [pranaav03@proton.me](mailto:pranaav03@proton.me)
+<h2 align="left"> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
+  
+<p align="left">
+  I'm <b>Pranaav Bhatnagar</b>, a passionate <b>Hacker</b> and <b>Security Researcher</b> exploring the world of <b>Cybersecurity</b>.
+  My focus is on <b>Bug Hunting</b>, <b>Malware Forensics</b>, and <b>Reverse Engineering</b>. I'm currently working on writing tools, learning vulnerabilities, and contributing to the open-source community.
+</p>
 
 ---
 
-<!-- Present Status Section -->
-<h2 id="present_status"> Present Status </h2>
-
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
-- 📖 Still learning Bug Hunting & Malware Forensics.
-- 🛠️ Writing useful tools for myself and communities.
-- 👥 Managing tech communities & creating content.
-- 🚀 Building and contributing to open-source projects.
-- 🎯 Journey to becoming a **Cybersecurity Specialist** continues...
-
----
-
-<!-- Featured Projects Section -->
-<h2>🚀 Featured Projects</h2>
-
-- **[Cybertools](https://github.com/coffinsp/cybertools):** A Python tool for automated vulnerability detection.
-   - Tech Stack: Python, Bash
-   - Focuses on beginner-friendly automation for bug hunting and malware analysis.
-
-- **[CTF Write-ups](https://github.com/coffinsp/ctf-writeups):** My solutions and explanations for various Capture the Flag challenges.
-   - Tech Stack: Python, Wireshark, Burp Suite
-   - Covers web security, reverse engineering, and network forensics.
-
----
-
-<!-- Achievements Section -->
-<h2>🏆 Achievements</h2>
-
-- Found 5 critical vulnerabilities in public web applications.
-- Top 100 finisher in TryHackMe CTF Challenge.
-- Certified in [Hack the Box Academy](https://academy.hackthebox.com/).
-
----
-
-<!-- Collaboration Call-to-Action -->
-<h2>🤝 Looking for Collaboration</h2>
-
-- I’m open to working on **open-source security tools** and **cybersecurity challenges**.
-- Interested? Feel free to **[connect with me](mailto:pranaav03@proton.me)**.
-
----
-
-<!-- Profile Footer with Quote -->
+<!-- Badges for Skills -->
 <p align="center">
-  <b><i>"Security is not a product, but a process."</i></b> – Bruce Schneier
+  <img src="https://img.shields.io/badge/Skills-Reverse%20Engineering-blueviolet?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Tools-Burp%20Suite-orange?style=for-the-badge&logo=burp-suite" />
+  <img src="https://img.shields.io/badge/Forensics-Malware-blue?style=for-the-badge&logo=hack-the-box" />
+  <img src="https://img.shields.io/badge/CTF-HackerRank-yellow?style=for-the-badge&logo=hack-the-box" />
+  <img src="https://img.shields.io/badge/Pentesting-Web%20Security-lightgrey?style=for-the-badge&logo=security" />
+</p>
+
+---
+
+<!-- Featured Project with Minimal Details -->
+<h2 align="center"> 🚀 Featured Project </h2>
+
+<p align="center">
+  <b>[Cybertools](https://github.com/coffinsp/cybertools)</b> <br>
+  <i>A Python tool for automating vulnerability detection with a focus on beginners in cybersecurity.</i> <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffinsp&repo=cybertools&theme=vision-friendly-dark" alt="GitHub Repo Card" />
+</p>
+
+---
+
+<!-- Achievements Section with Minimal Text and Icons -->
+<h2 align="center"> 🏆 Achievements & Certifications </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-Top%2010%25-green?style=flat-square&logo=tryhackme" />
+  <img src="https://img.shields.io/badge/CTF-Challenges-red?style=flat-square&logo=hackerone" />
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-Rank%20100-orange?style=flat-square&logo=hack-the-box" />
+  <img src="https://img.shields.io/badge/Certified-Ethical%20Hacker-blueviolet?style=flat-square&logo=ethical-hacker" />
+</p>
+
+---
+
+<!-- Collaboration and Contact Info -->
+<h2 align="center"> 🤝 Let's Connect </h2>
+
+<p align="center">
+  <a href="mailto:pranaav03@proton.me"><img src="https://img.shields.io/badge/Email-me-green?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/pranaav-bhatnagar/"><img src="https://img.shields.io/badge/LinkedIn-pranaav--bhatnagar-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/coffinsp"><img src="https://img.shields.io/badge/GitHub-coffinsp-lightgrey?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+<!-- Quote Section with Animation -->
+<p align="center">
+  <b><i>"Security is not a product, but a process."</i></b> – Bruce Schneier <br><br>
+  <img src="https://media.giphy.com/media/l4FGGafcOHmrlQxGg/giphy.gif" width="200px"/>
+</p>
+
+<!-- Footer Animation with Lottie or GIF -->
+<p align="center">
+  <img src="https://assets8.lottiefiles.com/private_files/lf30_iizb01ll.json" width="200px" />
 </p>
