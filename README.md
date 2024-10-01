@@ -12,16 +12,19 @@
 
 <!-- Profile Introduction -->
 <h2 align="left">👋 Hi there!</h2>
-
 <p align="left">
   I'm <b>Pranaav Bhatnagar</b>, a dedicated <b>Hacker</b> and <b>Security Researcher</b> on the journey to mastering <b>Cybersecurity</b>. My main areas of focus are <b>Bug Hunting</b>, <b>Malware Forensics</b>, and <b>Reverse Engineering</b>. I'm always learning, building new tools, and striving to make the digital world a safer place.
+</p>
+
+<!-- Profile Image -->
+<p align="center">
+  <img width="250px" src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf" alt="Cybersecurity Image"/>
 </p>
 
 ---
 
 <!-- Cybersecurity Skills Badges -->
 <h2 align="center">🔥 My Cybersecurity Skills</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Skills-Reverse%20Engineering-blueviolet?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Tools-Burp%20Suite-orange?style=for-the-badge&logo=burp-suite" />
@@ -45,6 +48,13 @@
 
 ---
 
+<!-- Cool Hacking Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/1gL3M2zfhZlj6A8Hcb/giphy.gif" width="400px" alt="Hacker Animation"/>
+</p>
+
+---
+
 <!-- Quote Section -->
 <h2 align="center">"Security is not a product, but a process." – Bruce Schneier</h2>
 
@@ -52,7 +62,6 @@
 
 <!-- Connect with Me Section -->
 <h2 align="center">🤝 Let's Connect</h2>
-
 <p align="center">
   <a href="mailto:pranaav03@proton.me"><img src="https://img.shields.io/badge/Email-me-green?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/pranaav-bhatnagar/"><img src="https://img.shields.io/badge/LinkedIn-pranaav--bhatnagar-blue?style=for-the-badge&logo=linkedin" /></a>
