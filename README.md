@@ -10,12 +10,8 @@
   </a>
 </div>
 
-<!-- Profile Introduction with GIF -->
-<div align="left">
-  <img width="250px" align="right" src="https://media.giphy.com/media/5GoVLqeAOo6PKIyuGO/giphy.gif" alt="Cybersecurity GIF"/>
-</div>
-
-<h2 align="left">👋 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h2>
+<!-- Profile Introduction -->
+<h2 align="left">👋 Hi there!</h2>
 
 <p align="left">
   I'm <b>Pranaav Bhatnagar</b>, a dedicated <b>Hacker</b> and <b>Security Researcher</b> on the journey to mastering <b>Cybersecurity</b>. My main areas of focus are <b>Bug Hunting</b>, <b>Malware Forensics</b>, and <b>Reverse Engineering</b>. I'm always learning, building new tools, and striving to make the digital world a safer place.
@@ -45,17 +41,6 @@
   <img src="https://img.shields.io/badge/CTF-Challenges-red?style=flat-square&logo=hackerone" />
   <img src="https://img.shields.io/badge/Hack%20The%20Box-Rank%20100-orange?style=flat-square&logo=hack-the-box" />
   <img src="https://img.shields.io/badge/Certified-Ethical%20Hacker-blueviolet?style=flat-square&logo=ethical-hacker" />
-</p>
-
----
-
-<!-- Hacking Animation Section -->
-<p align="center">
-  <img src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" width="400px" alt="Hacker Animation"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2aH3D0evWh25qxgPqE/giphy.gif" width="400px" alt="Hacker Work"/>
 </p>
 
 ---
