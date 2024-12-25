@@ -65,7 +65,6 @@
 <p align="center">
   <a href="mailto:pranaav03@proton.me"><img src="https://img.shields.io/badge/Email-me-green?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/pranaav-bhatnagar/"><img src="https://img.shields.io/badge/LinkedIn-pranaav--bhatnagar-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/coffinsp"><img src="https://img.shields.io/badge/GitHub-coffinsp-lightgrey?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
