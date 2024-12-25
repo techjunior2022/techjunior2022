@@ -50,7 +50,7 @@
 
 <!-- Cool Hacking Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/1gL3M2zfhZlj6A8Hcb/giphy.gif" width="400px" alt="Hacker Animation"/>
+  <img src="https://camo.githubusercontent.com/e71c2281202de177325a493c92e5bd0c6f64eacf1c42f76f9045c64e4b8fdf1c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31674c334d327a66685a6c6a3641384863622f67697068792e676966" width="400px" alt="Hacking Animation" />
 </p>
 
 ---
@@ -66,4 +66,12 @@
   <a href="mailto:pranaav03@proton.me"><img src="https://img.shields.io/badge/Email-me-green?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/pranaav-bhatnagar/"><img src="https://img.shields.io/badge/LinkedIn-pranaav--bhatnagar-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/coffinsp"><img src="https://img.shields.io/badge/GitHub-coffinsp-lightgrey?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+<!-- Fun Additional GIFs -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" alt="Code Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Programming Fun" />
 </p>
